@@ -1,0 +1,7 @@
+# Node modules
+/stripe-backend/node_modules/
+/stripe-frontend/node_modules/
+
+# envs
+/stripe-backend/*.env
+/stripe-frontend/*.env
