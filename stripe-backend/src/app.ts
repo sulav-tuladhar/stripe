@@ -98,9 +98,6 @@ app.post('/webhook-triggered', async (req: Request, res: Response, next: NextFun
         res.json({
             message: 'Response'
         })
-        // res.json({
-        //     message
-        // })
     } catch (err) {
         return next(err);
     }

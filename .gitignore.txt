@@ -1,0 +1,3 @@
+/stripe-backend/node_modules/
+/stripe-frontend/node_modules/
+

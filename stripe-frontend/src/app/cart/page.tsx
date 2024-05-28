@@ -4,7 +4,7 @@ import UserInfoComponent from '@/components/cart/userInfo/UserInfo.component'
 import React from 'react'
 // import { useSelector } from 'react-redux';
 
-function page() {
+function Page() {
 
   return (
     <main className='flex pt-6 gap-8'>
@@ -17,4 +17,4 @@ function page() {
   )
 }
 
-export default page
+export default Page
